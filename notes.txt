@@ -1,0 +1,22 @@
+LETS BUILD A FOOD ORDER AAAAAAAAAAAAAAAPPPPP!
+
+I was going to build this myself and I have 
+planned the basic design however for now,
+due to time constraints, I am gonna code
+along for now. Know that an app could
+be made in more than one ways. There is no
+fixed design you have to follow but make sure
+you follow the best practices always.
+
+
+React can render an array consisting of JSX elements
+
+Overall look of the project has been achieved. Nothing
+too complicated up to this point logic-wise. CSS effects
+and animations are dope. Another lesson is that while
+starting a project no need to tackle the toughest part
+first.
+
+
+It's time to move on the main logic: Adding Items to the Cart
+and Handling Amount.
